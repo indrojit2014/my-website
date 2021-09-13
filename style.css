@@ -1,0 +1,42 @@
+body{
+ margin: 0;
+ font-family: 'Urbanist', sans-serif;
+}
+.half-width{
+ float:left;
+ width:40%;
+}
+.half-width img{
+ width:100%;
+}
+.half-width{
+ margin-left:5%;
+ padding-left:2%;
+}
+section{
+ height:450px;
+}
+.abought-me{
+ background-image:url("images/header-bg.png");
+ padding-top:40px;
+}
+#me{
+ margin-top:100px;
+}
+#me h1{
+margin:10px;
+}
+.highlight{
+ color:rgb(218, 12, 80);
+ font-size:35px;
+}
+#light{
+ font-weight:lighter;
+}
+.link-button{
+ text-decoration:none;
+ padding:5px 10px;
+ background:rgb(218, 12, 80);
+ border-radius:5px;
+ color:white;
+}
