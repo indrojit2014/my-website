@@ -15,6 +15,7 @@ body{
 }
 section{
  height:450px;
+ padding-bottom:150px;
 }
 .abought-me{
  background-image:url("images/header-bg.png");
@@ -39,4 +40,72 @@ margin:10px;
  background:rgb(218, 12, 80);
  border-radius:5px;
  color:white;
+ 
+ display:inline-block;
+ margin-top:20px;
+}
+#lighten{
+ font-weight:500;
+}
+.biography{
+ background-image:url(images/biography-bg.png);
+}
+.work{
+ text-align:center;
+ font-size:30px;
+}
+.work-list{
+ background-image:url("images/latest-work-bg.png");
+}
+.work1{
+ float:left;
+ width:33.33%;
+ margin:auto;
+}
+.work1 img{
+ width:100%;
+}
+.client{
+ background-image:url("images/footer-bg.png");
+}
+.client h1,.client h5{
+ text-align:center;
+}
+.message{
+ width:30%;
+ margin:70px auto;
+ background:rgb(218, 12, 80);
+ text-align:center;
+ padding:15px 60px;
+ border-radius:5px;
+}
+.message h4{
+ margin:10px 0 15px 0;
+ color:white;
+ font-size:18px;
+}
+.message p{
+ margin:10px 0;
+ color:white;
+ font-size:12px;
+}
+.comment{
+width:30%;
+margin:0 auto;
+text-align:center;
+}
+.comment q{
+ font-size:14px;
+}
+.ceo h4{
+text-align:center;
+margin:50px 0  0 0;
+}
+.ceo p{
+ margin-top:0px;
+ text-align:center;
+}
+.foter p{
+ text-align:center;
+ margin-top:200px;
 }
