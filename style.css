@@ -57,6 +57,10 @@ margin:10px;
 .work-list{
  background-image:url("images/latest-work-bg.png");
 }
+.middle{
+ width:80%;
+ margin:0 auto;
+}
 .work1{
  float:left;
  width:33.33%;
